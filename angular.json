@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Help-desk"
+    }
+  },
+  "defaultProject": "Help-desk",
+  "cli": {
+    "analytics": "cd900e81-3fbd-4d2e-aba1-46333cfc8e8c"
+  }
 }
